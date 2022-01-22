@@ -1,0 +1,37 @@
+#header {
+    height: 40px;
+    background-image: linear-gradient(to right, red, cyan);
+    justify-content: space-around;
+    display: flex;
+    align-items: center;
+}
+
+#breed-box {
+    display: flex;
+    justify-content: space-around;
+}
+
+#breed-box p {
+    margin: 4px;
+}
+
+#sub-breed-cont {
+    display: flex;
+    justify-content: space-around;
+}
+
+#sub-breed-cont p {
+    margin: 4px;
+}
+
+#content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img {
+    margin: 5px;
+    height: 200px;
+    width: 200px;
+}
